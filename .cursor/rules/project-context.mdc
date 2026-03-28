@@ -1,0 +1,14 @@
+---
+description: Load master README and doc hierarchy for every AI session in this repo
+alwaysApply: true
+---
+
+# Project context (AI Resume Analyzer)
+
+1. **Read `README.md` at the repository root first** — it is the master context: stack, setup, layout, env vars, scripts, and pointers to other docs.
+
+2. For API routes, Supabase, storage, and Vertex AI, read **`docs/ARCHITECTURE.md`** when the task touches those systems.
+
+3. **Documentation is the last step** of any non-trivial change. Follow **`docs/DOCUMENTATION.md`** to update `README.md`, `docs/ARCHITECTURE.md`, `.env.example`, or `supabase/migrations/` as needed.
+
+4. Use the `@/` path alias for `src/*` imports; match existing patterns under `src/app` and `src/lib`.

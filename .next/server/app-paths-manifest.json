@@ -1,0 +1,18 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/auth/signout/route": "app/api/auth/signout/route.js",
+  "/api/auth/status/route": "app/api/auth/status/route.js",
+  "/api/auth/upgrade-plan/route": "app/api/auth/upgrade-plan/route.js",
+  "/api/files/route": "app/api/files/route.js",
+  "/api/kv/route": "app/api/kv/route.js",
+  "/api/payments/route": "app/api/payments/route.js",
+  "/auth/callback/route": "app/auth/callback/route.js",
+  "/api/ai/route": "app/api/ai/route.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/plans/page": "app/plans/page.js",
+  "/resume/[id]/page": "app/resume/[id]/page.js",
+  "/upload/page": "app/upload/page.js",
+  "/resumes/page": "app/resumes/page.js",
+  "/wipe/page": "app/wipe/page.js"
+}

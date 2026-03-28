@@ -1,0 +1,21 @@
+{
+  "..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_app": {
+    "id": 5139,
+    "files": [
+      "static/chunks/139.7a5a8e93a21948c1.js"
+    ]
+  },
+  "..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_error": {
+    "id": 1646,
+    "files": [
+      "static/chunks/646.f342b7cffc01feb0.js"
+    ]
+  },
+  "lib\\pdf2img.ts -> pdfjs-dist/build/pdf.mjs": {
+    "id": 8045,
+    "files": [
+      "static/chunks/9b0008ae.b60b679fec85e900.js",
+      "static/chunks/376-978318a47fc25c90.js"
+    ]
+  }
+}
